@@ -1,0 +1,20 @@
+{
+    "catalog": [],
+    "employees": [
+        {
+            "first_name": "fjkd",
+            "last_name": "fjd",
+            "age": 4309,
+            "phone": "3290",
+            "email": "fjgd",
+            "employee_id": "230",
+            "position": "302",
+            "salary": 32.0,
+            "is_working": true
+        }
+    ],
+    "customers": [],
+    "warehouses": [],
+    "sales_points": [],
+    "orders": []
+}
